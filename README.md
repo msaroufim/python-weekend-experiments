@@ -1,12 +1,16 @@
 #Experiments in Python OSS
 
-##Training Data
+##Get Data
 
-The below is a simple python script building off of requests and beautifulsoup that you can point to a url to download all the pdf files linked on the main page locally. **Do not loop the below script, be mindful of the limited bandwidth that faculty have on their web-pages.**
+The below is a simple python script building off of requests and beautifulsoup that you can point to a url to download all the pdf files linked on the main page locally. **Do not abuse the below script, be mindful of the limited bandwidth that faculty have on their web-pages.**
 
 ```
 python get-all-pdf-on-page.py http://cs229.stanford.edu/materials.html
 ```
+
+##Clean Data
+
+##License
 
 The MIT License (MIT)
 
