@@ -10,10 +10,10 @@ python get-all-pdf-on-page.py http://cs229.stanford.edu/materials.html
 
 ##Extract Text Data
 
-Install the swiss army knife of extracting data from different file formats textract.
+Install the swiss army knife of extracting data from different file formats textract. It gives you among other things 
 
 ```
-pdf2txt.py Data/MachineLearning/cs229-cvxopt.pdf > text-cs229-cvxopt.pdf
+pdf2txt.py Data/MachineLearning/cs229-cvxopt.pdf > cs229-cvxopt.txt
 ```
 
 ##License
